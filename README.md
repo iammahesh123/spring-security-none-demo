@@ -27,7 +27,7 @@ git clone https://github.com/iammahesh123/spring-security-none-demo.git
 ```
 2. Navigate to the project directory:
  ```bash
-  cd spring-security-csrf-demo
+  cd spring-security-none-demo
  ```
 3. Build the project using Maven:
  ```bash
